@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check
-        uses: ruzickap/action-my-broken-link-checker@v2.2.4
+        uses: ruzickap/action-my-broken-link-checker@v1.0.3
         with:
           url: https://fenicsproject.org
